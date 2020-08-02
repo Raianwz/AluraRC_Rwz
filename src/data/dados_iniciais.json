@@ -1,0 +1,126 @@
+{
+  "categorias": [
+    {
+      "titulo": "Sonic Mania OST",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "SoundTrack",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Sonic Mania",
+          "url": "https://www.youtube.com/watch?v=VYQNnrccbj8"
+        },
+        {
+          "titulo": "Studiopolis Act 1",
+          "url": "https://www.youtube.com/watch?v=NIWyZmFSep0"
+        },
+        {
+          "titulo": "Green Hill Act 1",
+          "url": "https://www.youtube.com/watch?v=8lkTRBywniw"
+        },
+        {
+          "titulo": "Chemical Plant Act 1",
+          "url": "https://www.youtube.com/watch?v=tGqmtzzXYqY"
+        },
+        {
+          "titulo": "Hydrocity Act 1",
+          "url": "https://www.youtube.com/watch?v=e48OijK2LiI"
+        },
+        {
+          "titulo": "Oil Ocean Act 1",
+          "url": "https://www.youtube.com/watch?v=TH0VN3Nixwg"
+        },
+        {
+          "titulo": "Wildstyle Pistolero (Mirage Saloon Zone Act 1 K Mix)",
+          "url": "https://www.youtube.com/watch?v=IF-YoPMPAlU"
+        },
+        {
+          "titulo": "Press Garden Zone Act 1",
+          "url": "https://www.youtube.com/watch?v=6MndM7CKbq4"
+        }        
+      ]
+    },
+    {
+      "titulo": "Jogos OST",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Minecraft Calm 1",
+          "url": "https://www.youtube.com/watch?v=_aPUro7sq9o"
+        },
+        {
+          "titulo": "Super Mario Odyssey - Jump Up, Super Star!",
+          "url": "https://www.youtube.com/watch?v=AZxEZ4-zf2I&feature=youtu.be&t=8"
+        },
+        {
+          "titulo": "Cuphead Opening Theme",
+          "url": "https://www.youtube.com/watch?v=0vhFjrQmnFo"
+        },
+        {
+          "titulo": "Undertale - Megalovania",
+          "url": "https://www.youtube.com/watch?v=wDgQdr8ZkTw"
+        }, 
+        {
+          "titulo": "True Damage - GIANTS (com Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose)",
+          "url": "https://www.youtube.com/watch?v=sVZpHFXcFJw"
+        }
+      ]
+    },
+	{
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+	    {
+          "titulo": "Shrek 2 (2004) - Livin' La Vida Loca",
+          "url": "https://www.youtube.com/watch?v=C9PYzGyIfF8"
+        },
+        {
+          "titulo": "IYou've Got A Friend In Me - Randy Newman",
+          "url": "https://www.youtube.com/watch?v=nMN4JZ8crVY"
+        },
+        {
+          "titulo": "Shrek - All Stars",
+          "url": "https://www.youtube.com/watch?v=Uo2SNtFofWI"
+        },
+ 
+        {
+          "titulo": "Sonic The Hedgehog - Green Hill Zone Theme",
+          "url": "https://www.youtube.com/watch?v=wxE6wzVxIiw"
+        }
+      ]
+    },
+    {
+      "titulo": "Cinematics",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "A Maldição da Múmia Triste",
+          "url": "https://www.youtube.com/watch?v=jmYLXpw7Coo"
+        },
+        {
+          "titulo": "Warriors",
+          "url": "https://www.youtube.com/watch?v=fmI_Ndrxy14"
+        },
+        {
+          "titulo": "Legends Never Die",
+          "url": "https://www.youtube.com/watch?v=r6zIGXun57U"
+        },
+        {
+          "titulo": "Awaken",
+          "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+        }
+      ]
+    }
+  ]
+}
