@@ -6,7 +6,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
-        <img src={Rwz} alt="Logo Alura" />
+        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura"></img>
       </a>
       <p>
         Orgulhosamente criado durante a
@@ -15,6 +15,9 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
+      <a href="https://github.com/raianwz">
+      <img src={Rwz} alt="Logo RaianWZ" />
+      </a>
     </FooterBase>
   );
 }

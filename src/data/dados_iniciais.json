@@ -66,10 +66,6 @@
         {
           "titulo": "Undertale - Megalovania",
           "url": "https://www.youtube.com/watch?v=wDgQdr8ZkTw"
-        }, 
-        {
-          "titulo": "True Damage - GIANTS (com Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose)",
-          "url": "https://www.youtube.com/watch?v=sVZpHFXcFJw"
         }
       ]
     },
@@ -97,7 +93,7 @@
       ]
     },
     {
-      "titulo": "Cinematics",
+      "titulo": "League of Legends",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "",
@@ -119,6 +115,10 @@
         {
           "titulo": "Awaken",
           "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+        },
+		{
+          "titulo": "True Damage - GIANTS (com Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose)",
+          "url": "https://www.youtube.com/watch?v=sVZpHFXcFJw"
         }
       ]
     }
