@@ -1,75 +1,87 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Sonic Mania Adventures",
+      "link": "https://www.youtube.com/watch?v=rDYbwdEn7rs&list=PL6YtbPaCgKrT1o0_QT1uGR5PruDIDLmew",
+      "cor": "#438adc",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Assistir na Playlist",
+        "url": "https://www.youtube.com/watch?v=rDYbwdEn7rs&list=PL6YtbPaCgKrT1o0_QT1uGR5PruDIDLmew"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Sonic Mania",
+          "url": "https://www.youtube.com/watch?v=FTan3wn9ay4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Sonic Mania Adventure: Part 1",
+          "url": "https://www.youtube.com/watch?v=rDYbwdEn7rs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Sonic Mania Adventure: Part 2",
+          "url": "https://www.youtube.com/watch?v=KYEmRHFolvM"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Sonic Mania Adventure: Part 3",
+          "url": "https://www.youtube.com/watch?v=i-j7xctfVUQ"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Sonic Mania Adventure: Part 4",
+          "url": "https://www.youtube.com/watch?v=aAmBxc_yCsI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Sonic Mania Adventure: Part 5",
+          "url": "https://www.youtube.com/watch?v=3HSc3ASFoG8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Sonic Mania Adventure: Part 6 (Holiday Special)",
+          "url": "https://www.youtube.com/watch?v=UpfIblkRspQ"
+        }       
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Original Soundtrack",
+      "cor": "#c80008",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "OST",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Cup Head Opening",
+          "url": "https://www.youtube.com/watch?v=0vhFjrQmnFo"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Sonic Mania OST - Studiopolis Act 1",
+          "url": "https://www.youtube.com/watch?v=NIWyZmFSep0"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Super Mario Odyssey - Jump Up, Super Star!",
+          "url": "https://www.youtube.com/watch?v=AZxEZ4-zf2I"
+        },
+        {
+          "titulo": "Title Theme - The Legend of Zelda: Ocarina of Time",
+          "url": "https://www.youtube.com/watch?v=CKA1zCwcYBE"
+        },
+        {
+          "titulo": "Minecraft Calm 1",
+          "url": "https://www.youtube.com/watch?v=_aPUro7sq9o"
+        },
+        {
+          "titulo": "Undertale - Megalovania",
+          "url": "https://www.youtube.com/watch?v=wDgQdr8ZkTw"
+        },
+        {
+          "titulo": "Bubble Bobble Music (NES)",
+          "url": "https://www.youtube.com/watch?v=KOuVKxzW4Do"
+        },
+        {
+          "titulo": "Alex Kidd in Miracle World Music- Main Theme",
+          "url": "https://www.youtube.com/watch?v=rEpscUX6GyU"
+        },
+        {
+          "titulo": "Plaleaf | Fantasy Zone | Master System | Soundtrack",
+          "url": "https://www.youtube.com/watch?v=RFvJFxuCg-k"
         }
       ]
     },

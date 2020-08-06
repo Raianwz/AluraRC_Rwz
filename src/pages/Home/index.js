@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Sonic Mania Adventures é uma animação lançada no Youtube durante 2018. A serie serve como uma continuação de Sonic Mania, continuando logo depois do final de Sonic Forces na perspectiva do Sonic Clássico. Os episódios foram lançados em um cronograma mensal."}
       />
 
       <Carousel
