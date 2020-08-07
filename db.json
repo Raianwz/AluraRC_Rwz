@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {   
+            "id": 1,
+            "nome": "Jogos",
+            "descricao": "Uma categoria semelhante a Games só com a nomeclatura em português",
+            "cor": "#cbd1ff"
+        },
+        {   
+            "id": 2,
+            "nome": "Sonic",
+            "descricao": "Mais um categoria para Sonic por que não?",
+            "cor": "#cbd1ff"
+        }
+    ]
+}

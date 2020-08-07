@@ -4,10 +4,6 @@
       "titulo": "Sonic Mania Adventures",
       "link": "https://www.youtube.com/watch?v=rDYbwdEn7rs&list=PL6YtbPaCgKrT1o0_QT1uGR5PruDIDLmew",
       "cor": "#438adc",
-      "link_extra": {
-        "text": "Assistir na Playlist",
-        "url": "https://www.youtube.com/watch?v=rDYbwdEn7rs&list=PL6YtbPaCgKrT1o0_QT1uGR5PruDIDLmew"
-      },
       "videos": [
         {
           "titulo": "Sonic Mania",
@@ -42,10 +38,6 @@
     {
       "titulo": "Original Soundtrack",
       "cor": "#c80008",
-      "link_extra": {
-        "text": "OST",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
           "titulo": "Cup Head Opening",
@@ -72,6 +64,14 @@
           "url": "https://www.youtube.com/watch?v=wDgQdr8ZkTw"
         },
         {
+          "titulo": "Pokemon Main Theme (Orchestral)",
+          "url": "https://www.youtube.com/watch?v=PxzY57ImZdQ"
+        },
+        {
+          "titulo": "Sonic Mania Green Hill Zone Act 1",
+          "url": "https://www.youtube.com/watch?v=8lkTRBywniw"
+        },
+        {
           "titulo": "Bubble Bobble Music (NES)",
           "url": "https://www.youtube.com/watch?v=KOuVKxzW4Do"
         },
@@ -82,114 +82,332 @@
         {
           "titulo": "Plaleaf | Fantasy Zone | Master System | Soundtrack",
           "url": "https://www.youtube.com/watch?v=RFvJFxuCg-k"
+        },
+        {
+          "titulo": "Tetris Theme",
+          "url": "https://www.youtube.com/watch?v=NmCCQxVBfyM"
+        },
+        {
+          "titulo": "Crash Bandicoot Theme",
+          "url": "https://www.youtube.com/watch?v=4i8qAZOu5-g"
+        },
+        {
+          "titulo": "Top Gear Theme",
+          "url": "https://www.youtube.com/watch?v=P_2oND5od0Y"
+        },
+        {
+          "titulo": "Sonic The Hedgehog OST - Green Hill Zone",
+          "url": "https://www.youtube.com/watch?v=G-i8HYi1QH0"
+        },
+        {
+          "titulo": "Donkey Kong Country Theme",
+          "url": "https://www.youtube.com/watch?v=Xqf8jID9TsE"
+        },
+        {
+          "titulo": "Athletic Theme - Yoshi's Island",
+          "url": "https://www.youtube.com/watch?v=GlUeW7IOSFc"
+        },
+        {
+          "titulo": "Overworld Theme - Super Mario: World",
+          "url": "https://www.youtube.com/watch?v=tAaGKo4XVvM"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "League of Legends",
+      "cor": "#c8a860",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Music Videos",
+        "url": "https://www.youtube.com/watch?v=sVZpHFXcFJw&list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "A Maldição da Múmia Triste",
+          "url": "https://www.youtube.com/watch?v=jmYLXpw7Coo"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Pentakill: Mortal Reminder",
+          "url": "https://www.youtube.com/watch?v=5-mT9D4fdgQ"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Warriors",
+          "url": "https://www.youtube.com/watch?v=fmI_Ndrxy14"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Get Jinxed",
+          "url": "https://www.youtube.com/watch?v=0nlJuwO0GDs"
+        },
+        {
+          "titulo": "K/DA - POP/STARS",
+          "url": "https://www.youtube.com/watch?v=UOxkGD8qRB4"
+        },
+		    {
+          "titulo": "True Damage - GIANTS (com Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose)",
+          "url": "https://www.youtube.com/watch?v=sVZpHFXcFJw"
+        },
+        {
+          "titulo": "Legends Never Die",
+          "url": "https://www.youtube.com/watch?v=r6zIGXun57U"
+        },
+        {
+          "titulo": "Awaken",
+          "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+        },
+        {
+          "titulo": "Warriors | Animação da Temporada 2020",
+          "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
+        },
+        {
+          "titulo": "Rise",
+          "url": "https://www.youtube.com/watch?v=fB8TyLTD7EE"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Em Busca da Casa Automática",
+      "cor": "#ca0707",
+      "link_extra": {
+        "text": "Ver Todos",
+        "url": "https://www.youtube.com/playlist?list=PLD40851E0E52E9080"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "#1? - Minecraft Aventura",
+          "url": "https://www.youtube.com/watch?v=aWzKb071D9o"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "#2 - Achei redstone!",
+          "url": "https://www.youtube.com/watch?v=l3y3shHkKmA"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "#3 - Matador de Ghasts",
+          "url": "https://www.youtube.com/watch?v=Q1B2UF3Wm_E"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "#4 - Os cavaleiros da redstone",
+          "url": "https://www.youtube.com/watch?v=1eNowGnLgjo"
+        },
+        {
+          "titulo": "#5 - Começamos a casa!",
+          "url": "https://www.youtube.com/watch?v=A6LvF_BHgMs"
+        },
+        {
+          "titulo": "#6 - Picareta encantada",
+          "url": "https://www.youtube.com/watch?v=oD2yP4wivPc"
+        },
+        {
+          "titulo": "#7 - Davi e a Joliscreide",
+          "url": "https://www.youtube.com/watch?v=wMtRxvRj-94"
+        },
+        {
+          "titulo": "#8 - Churrasqueira automática",
+          "url": "https://www.youtube.com/watch?v=1seevgq09HI"
+        },
+        {
+          "titulo": "#9 - Casa moderna",
+          "url": "https://www.youtube.com/watch?v=6GDHJ62uTL0"
+        },
+        {
+          "titulo": "#10 - Fonte automática",
+          "url": "https://www.youtube.com/watch?v=hJiUWiKItXg"
+        },
+        {
+          "titulo": "#11 - Farm de cacau semi-automática",
+          "url": "https://www.youtube.com/watch?v=lvV03W0OjNY"
+        },
+        {
+          "titulo": "#12 - Fazenda de árvores",
+          "url": "https://www.youtube.com/watch?v=GpUBtlrYDoA"
+        },
+        {
+          "titulo": "#13 - Meu aniversário o/ ",
+          "url": "https://www.youtube.com/watch?v=Y4D-7YAgx7Y"
+        },
+        {
+          "titulo": "#14 - Plantação de cana com sensor de luz solar! ",
+          "url": "https://www.youtube.com/watch?v=5tf5omgl5ig"
+        },
+        {
+          "titulo": "#15 - Guarda-armaduras",
+          "url": "https://www.youtube.com/watch?v=XVmG97_liwI"
+        },
+        {
+          "titulo": "#16 -  Colheita de trigo automática",
+          "url": "https://www.youtube.com/watch?v=xINNJjl6tE4"
+        },
+        {
+          "titulo": "#17 - Display numérico",
+          "url": "https://www.youtube.com/watch?v=qtkMSHPSMB8"
+        },
+        {
+          "titulo": "#18 - Farm de Melancia/Abóbora e bola de neve",
+          "url": "https://www.youtube.com/watch?v=2Y0UodRnL-c"
+        },
+        {
+          "titulo": "#19 - Trollando o Davi",
+          "url": "https://www.youtube.com/watch?v=f--E-Nty798"
+        },
+        {
+          "titulo": "#20 - Iluminação com sensor de luz solar",
+          "url": "https://www.youtube.com/watch?v=pHwKolgV_5o"
+        },
+        {
+          "titulo": "#21 - Elevador ziper",
+          "url": "https://www.youtube.com/watch?v=itCBL2ygIDg"
+        },
+        {
+          "titulo": "#22 - Lareira automática e convidado misterioso",
+          "url": "https://www.youtube.com/watch?v=SS3LwKGZgQo"
+        },
+        {
+          "titulo": "#23 - Farm de slimes",
+          "url": "https://www.youtube.com/watch?v=dPzugU36NDA"
+        },
+        {
+          "titulo": "#24 - Farm de ovelhas",
+          "url": "https://www.youtube.com/watch?v=bFQx4FPYohg"
+        },
+        {
+          "titulo": "#25 - Sala de encantamento automática",
+          "url": "https://www.youtube.com/watch?v=-n72BJsvCuM"
+        },
+        {
+          "titulo": "#26 - Especial de Natal",
+          "url": "https://www.youtube.com/watch?v=zHzy0cug0ME"
+        },
+        {
+          "titulo": "#27 - Casa nova e Trap FAIL",
+          "url": "https://www.youtube.com/watch?v=_LZNfawzYeg"
+        },
+        {
+          "titulo": "#28 - Mob Trap Parte 01",
+          "url": "https://www.youtube.com/watch?v=us_iCtpS9bU"
+        },
+        {
+          "titulo": "#29 - Mob Trap Finalizada",
+          "url": "https://www.youtube.com/watch?v=ZOBA8N7XpEs"
+        },
+        {
+          "titulo": "#30 - Farm de galinhas e ovos",
+          "url": "https://www.youtube.com/watch?v=mg31bYV_qsI&list=PLD40851E0E52E9080&index=31"
+        },
+        {
+          "titulo": "#31 - Elevador mais rápido do minecraft!?",
+          "url": "https://www.youtube.com/watch?v=rb2a8XlRcag&list=PLD40851E0E52E9080&index=32"
+        },
+        {
+          "titulo": "#32 - Organizador de itens",
+          "url": "https://www.youtube.com/watch?v=bmd0x7syOjc&list=PLD40851E0E52E9080&index=33"
+        },
+        {
+          "titulo": "#33 - 2º andar finalizado + Mapas",
+          "url": "https://www.youtube.com/watch?v=LXY8sH77DwY&list=PLD40851E0E52E9080&index=34"
+        },
+        {
+          "titulo": "#34 - Farm de batata assada",
+          "url": "https://www.youtube.com/watch?v=YaYoZtTxR9Q&list=PLD40851E0E52E9080&index=35"
+        },
+        {
+          "titulo": "#35 - Viniccius13 vs Napoleon / Nova churrasqueira",
+          "url": "https://www.youtube.com/watch?v=kzI_JOiv-ao&list=PLD40851E0E52E9080&index=36"
+        },
+        {
+          "titulo": "#36 - Estação de metrô/minecart",
+          "url": "https://www.youtube.com/watch?v=d7eMxLgxwY4&list=PLD40851E0E52E9080&index=37"
+        },
+        {
+          "titulo": "#37 - Montanha russa!?",
+          "url": "https://www.youtube.com/watch?v=226BEdPfZ_E&list=PLD40851E0E52E9080&index=38"
+        },
+        {
+          "titulo": "#38 - Esconderijo dos diamantes",
+          "url": "https://www.youtube.com/watch?v=aOiWpMuxXPc&list=PLD40851E0E52E9080&index=39"
+        },
+        {
+          "titulo": "#39 - Fornalha automática!",
+          "url": "https://www.youtube.com/watch?v=IbXwZD7G4z4&list=PLD40851E0E52E9080&index=40"
+        },
+        {
+          "titulo": "#40 - Skins gigantes! Impossível?!",
+          "url": "https://www.youtube.com/watch?v=wmVW7mPCcak&list=PLD40851E0E52E9080&index=41"
+        },
+        {
+          "titulo": "#41 - 1 ano de aventura! =D / Skins prontas",
+          "url": "https://www.youtube.com/watch?v=DUbpfE-0iM4&list=PLD40851E0E52E9080&index=42"
+        },
+        {
+          "titulo": "#42 - Destino Arena PVP / Estação de metrô múltipla",
+          "url": "https://www.youtube.com/watch?v=MahC6qujhmw&list=PLD40851E0E52E9080&index=43"
+        },
+        {
+          "titulo": "#43 - Gerador de cobblestone 100% automático com TNT",
+          "url": "https://www.youtube.com/watch?v=yKhIjMRnvYE&list=PLD40851E0E52E9080&index=44"
+        },
+        {
+          "titulo": "#44 - Começando a Arena PVP/ Porta 6x6 de cascalho",
+          "url": "https://www.youtube.com/watch?v=Ocjzfx7q-qA&list=PLD40851E0E52E9080&index=45"
+        },
+        {
+          "titulo": "#45 - Arena PVP / Coliseu",
+          "url": "https://www.youtube.com/watch?v=owegfWXIC4Y&list=PLD40851E0E52E9080&index=46s"
+        },
+        {
+          "titulo": "#46 - The End / Floresta Negra Parte 1",
+          "url": "https://www.youtube.com/watch?v=emx3jSPONQA&list=PLD40851E0E52E9080&index=47"
+        },
+        {
+          "titulo": "#46 - Ferrovia no Nether / Portal do Fim Parte 2",
+          "url": "https://www.youtube.com/watch?v=jc1lJNtlNrk&list=PLD40851E0E52E9080&index=48"
+        },
+        {
+          "titulo": "#47 - Farm de Armaduras!? / Separador de itens",
+          "url": "https://www.youtube.com/watch?v=cMjoe3j7Jfw&list=PLD40851E0E52E9080&index=49"
+        },
+        {
+          "titulo": "#48 - Napoleon vs Davi / Farm de Cactos",
+          "url": "https://www.youtube.com/watch?v=aAtnh95aWIU&list=PLD40851E0E52E9080&index=50"
+        },
+        {
+          "titulo": "#49 - The Void / Destruindo bedrock / Mob Trap automática",
+          "url": "https://www.youtube.com/watch?v=CZQ9ACyGChA&list=PLD40851E0E52E9080&index=51"
+        },
+        {
+          "titulo": "#50 - Especial / Tour pelo Mapa",
+          "url": "https://www.youtube.com/watch?v=Zu2jYPN64-k&list=PLD40851E0E52E9080&index=52"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "cor": "#763BA2",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Dininho Adventures",
+          "url": "https://www.youtube.com/watch?v=AtcrDtIv3F4"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Celeste",
+          "url": "https://www.youtube.com/watch?v=70d9irlxiB4"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Hollow Night",
+          "url": "https://www.youtube.com/watch?v=FzzsWP2GWmg"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Oxygen Not Included",
+          "url": "https://www.youtube.com/watch?v=wcLayGm_pM4"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Undermine",
+          "url": "https://www.youtube.com/watch?v=58ral7Vy1lM"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Skul: The Hero Slayer Official Trailer",
+          "url": "https://www.youtube.com/watch?v=yzP8eYbQNpE"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Castle Crashers",
+          "url": "https://www.youtube.com/watch?v=bu6Kwvd695w"
         }
       ]
     }
