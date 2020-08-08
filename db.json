@@ -1,16 +1,607 @@
 {
-    "categorias": [
-        {   
-            "id": 1,
-            "nome": "Jogos",
-            "descricao": "Uma categoria semelhante a Games só com a nomeclatura em português",
-            "cor": "#cbd1ff"
-        },
-        {   
-            "id": 2,
-            "nome": "Sonic",
-            "descricao": "Mais um categoria para Sonic por que não?",
-            "cor": "#cbd1ff"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Sonic Mania Adventures",
+      "cor": "#438adc",
+      "link_extra": {
+        "text": "PlayList",
+        "url": "https://www.youtube.com/playlist?list=PL6YtbPaCgKrT1o0_QT1uGR5PruDIDLmew"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Original Soundtrack",
+      "cor": "#c80008"
+    },
+    {
+      "id": 3,
+      "titulo": "League of Legends",
+      "cor": "#c8a860",
+      "link_extra": {
+        "text": "PlayList",
+        "url": "https://www.youtube.com/playlist?list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Em Busca da Casa Automática",
+      "cor": "#ca0707",
+      "link_extra": {
+        "text": "Ver todos",
+        "url": "https://www.youtube.com/playlist?list=PLD40851E0E52E9080"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Games",
+      "cor": "#763BA2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Sonic Mania",
+      "url": "https://www.youtube.com/watch?v=FTan3wn9ay4"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Sonic Mania Adventure: Part 1",
+      "url": "https://www.youtube.com/watch?v=rDYbwdEn7rs"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Sonic Mania Adventure: Part 2",
+      "url": "https://www.youtube.com/watch?v=KYEmRHFolvM"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Sonic Mania Adventure: Part 3",
+      "url": "https://www.youtube.com/watch?v=i-j7xctfVUQ"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Sonic Mania Adventure: Part 4",
+      "url": "https://www.youtube.com/watch?v=aAmBxc_yCsI"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Sonic Mania Adventure: Part 5",
+      "url": "https://www.youtube.com/watch?v=3HSc3ASFoG8"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Sonic Mania Adventure: Part 6 (Holiday Special)",
+      "url": "https://www.youtube.com/watch?v=UpfIblkRspQ"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Cup Head Opening",
+      "url": "https://www.youtube.com/watch?v=0vhFjrQmnFo"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Sonic Mania OST - Studiopolis Act 1",
+      "url": "https://www.youtube.com/watch?v=NIWyZmFSep0"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Super Mario Odyssey - Jump Up, Super Star!",
+      "url": "https://www.youtube.com/watch?v=AZxEZ4-zf2I"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Title Theme - The Legend of Zelda: Ocarina of Time",
+      "url": "https://www.youtube.com/watch?v=CKA1zCwcYBE"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Minecraft Calm 1",
+      "url": "https://www.youtube.com/watch?v=_aPUro7sq9o"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Undertale - Megalovania",
+      "url": "https://www.youtube.com/watch?v=wDgQdr8ZkTw"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Pokemon Main Theme (Orchestral)",
+      "url": "https://www.youtube.com/watch?v=PxzY57ImZdQ"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "Sonic Mania Green Hill Zone Act 1",
+      "url": "https://www.youtube.com/watch?v=8lkTRBywniw"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Bubble Bobble Music (NES)",
+      "url": "https://www.youtube.com/watch?v=KOuVKxzW4Do"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "Alex Kidd in Miracle World Music- Main Theme",
+      "url": "https://www.youtube.com/watch?v=rEpscUX6GyU"
+    },
+    {
+      "id": 18,
+      "categoriaId": 2,
+      "titulo": "Plaleaf | Fantasy Zone | Master System | Soundtrack",
+      "url": "https://www.youtube.com/watch?v=RFvJFxuCg-k"
+    },
+    {
+      "id": 19,
+      "categoriaId": 2,
+      "titulo": "Tetris Theme",
+      "url": "https://www.youtube.com/watch?v=NmCCQxVBfyM"
+    },
+    {
+      "id": 20,
+      "categoriaId": 2,
+      "titulo": "Crash Bandicoot Theme",
+      "url": "https://www.youtube.com/watch?v=4i8qAZOu5-g"
+    },
+    {
+      "id": 21,
+      "categoriaId": 2,
+      "titulo": "Top Gear Theme",
+      "url": "https://www.youtube.com/watch?v=P_2oND5od0Y"
+    },
+    {
+      "id": 22,
+      "categoriaId": 2,
+      "titulo": "Sonic The Hedgehog OST - Green Hill Zone",
+      "url": "https://www.youtube.com/watch?v=G-i8HYi1QH0"
+    },
+    {
+      "id": 23,
+      "categoriaId": 2,
+      "titulo": "Donkey Kong Country Theme",
+      "url": "https://www.youtube.com/watch?v=Xqf8jID9TsE"
+    },
+    {
+      "id": 24,
+      "categoriaId": 2,
+      "titulo": "Athletic Theme - Yoshi's Island",
+      "url": "https://www.youtube.com/watch?v=GlUeW7IOSFc"
+    },
+    {
+      "id": 25,
+      "categoriaId": 2,
+      "titulo": "Overworld Theme - Super Mario: World",
+      "url": "https://www.youtube.com/watch?v=tAaGKo4XVvM"
+    },
+    {
+      "id": 26,
+      "categoriaId": 3,
+      "titulo": "A Maldição da Múmia Triste",
+      "url": "https://www.youtube.com/watch?v=jmYLXpw7Coo"
+    },
+    {
+      "id": 27,
+      "categoriaId": 3,
+      "titulo": "Pentakill: Mortal Reminder",
+      "url": "https://www.youtube.com/watch?v=5-mT9D4fdgQ"
+    },
+    {
+      "id": 28,
+      "categoriaId": 3,
+      "titulo": "Warriors",
+      "url": "https://www.youtube.com/watch?v=fmI_Ndrxy14"
+    },
+    {
+      "id": 29,
+      "categoriaId": 3,
+      "titulo": "Get Jinxed",
+      "url": "https://www.youtube.com/watch?v=0nlJuwO0GDs"
+    },
+    {
+      "id": 30,
+      "categoriaId": 3,
+      "titulo": "K/DA - POP/STARS",
+      "url": "https://www.youtube.com/watch?v=UOxkGD8qRB4"
+    },
+    {
+      "id": 31,
+      "categoriaId": 3,
+      "titulo": "True Damage - GIANTS (com Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose)",
+      "url": "https://www.youtube.com/watch?v=sVZpHFXcFJw"
+    },
+    {
+      "id": 32,
+      "categoriaId": 3,
+      "titulo": "Legends Never Die",
+      "url": "https://www.youtube.com/watch?v=r6zIGXun57U"
+    },
+    {
+      "id": 33,
+      "categoriaId": 3,
+      "titulo": "Awaken",
+      "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+    },
+    {
+      "id": 34,
+      "categoriaId": 3,
+      "titulo": "Warriors | Animação da Temporada 2020",
+      "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
+    },
+    {
+      "id": 35,
+      "categoriaId": 3,
+      "titulo": "Rise",
+      "url": "https://www.youtube.com/watch?v=fB8TyLTD7EE"
+    },
+    {
+      "id": 36,
+      "categoriaId": 4,
+      "titulo": "#1? - Minecraft Aventura",
+      "url": "https://www.youtube.com/watch?v=aWzKb071D9o"
+    },
+    {
+      "id": 37,
+      "categoriaId": 4,
+      "titulo": "#2 - Achei redstone!",
+      "url": "https://www.youtube.com/watch?v=l3y3shHkKmA"
+    },
+    {
+      "id": 38,
+      "categoriaId": 4,
+      "titulo": "#3 - Matador de Ghasts",
+      "url": "https://www.youtube.com/watch?v=Q1B2UF3Wm_E"
+    },
+    {
+      "id": 39,
+      "categoriaId": 4,
+      "titulo": "#4 - Os cavaleiros da redstone",
+      "url": "https://www.youtube.com/watch?v=1eNowGnLgjo"
+    },
+    {
+      "id": 40,
+      "categoriaId": 4,
+      "titulo": "#5 - Começamos a casa!",
+      "url": "https://www.youtube.com/watch?v=A6LvF_BHgMs"
+    },
+    {
+      "id": 41,
+      "categoriaId": 4,
+      "titulo": "#6 - Picareta encantada",
+      "url": "https://www.youtube.com/watch?v=oD2yP4wivPc"
+    },
+    {
+      "id": 42,
+      "categoriaId": 4,
+      "titulo": "#7 - Davi e a Joliscreide",
+      "url": "https://www.youtube.com/watch?v=wMtRxvRj-94"
+    },
+    {
+      "id": 43,
+      "categoriaId": 4,
+      "titulo": "#8 - Churrasqueira automática",
+      "url": "https://www.youtube.com/watch?v=1seevgq09HI"
+    },
+    {
+      "id": 44,
+      "categoriaId": 4,
+      "titulo": "#9 - Casa moderna",
+      "url": "https://www.youtube.com/watch?v=6GDHJ62uTL0"
+    },
+    {
+      "id": 45,
+      "categoriaId": 4,
+      "titulo": "#10 - Fonte automática",
+      "url": "https://www.youtube.com/watch?v=hJiUWiKItXg"
+    },
+    {
+      "id": 46,
+      "categoriaId": 4,
+      "titulo": "#11 - Farm de cacau semi-automática",
+      "url": "https://www.youtube.com/watch?v=lvV03W0OjNY"
+    },
+    {
+      "id": 47,
+      "categoriaId": 4,
+      "titulo": "#12 - Fazenda de árvores",
+      "url": "https://www.youtube.com/watch?v=GpUBtlrYDoA"
+    },
+    {
+      "id": 48,
+      "categoriaId": 4,
+      "titulo": "#13 - Meu aniversário o/ ",
+      "url": "https://www.youtube.com/watch?v=Y4D-7YAgx7Y"
+    },
+    {
+      "id": 49,
+      "categoriaId": 4,
+      "titulo": "#14 - Plantação de cana com sensor de luz solar! ",
+      "url": "https://www.youtube.com/watch?v=5tf5omgl5ig"
+    },
+    {
+      "id": 50,
+      "categoriaId": 4,
+      "titulo": "#15 - Guarda-armaduras",
+      "url": "https://www.youtube.com/watch?v=XVmG97_liwI"
+    },
+    {
+      "id": 51,
+      "categoriaId": 4,
+      "titulo": "#16 -  Colheita de trigo automática",
+      "url": "https://www.youtube.com/watch?v=xINNJjl6tE4"
+    },
+    {
+      "id": 52,
+      "categoriaId": 4,
+      "titulo": "#17 - Display numérico",
+      "url": "https://www.youtube.com/watch?v=qtkMSHPSMB8"
+    },
+    {
+      "id": 53,
+      "categoriaId": 4,
+      "titulo": "#18 - Farm de Melancia/Abóbora e bola de neve",
+      "url": "https://www.youtube.com/watch?v=2Y0UodRnL-c"
+    },
+    {
+      "id": 54,
+      "categoriaId": 4,
+      "titulo": "#19 - Trollando o Davi",
+      "url": "https://www.youtube.com/watch?v=f--E-Nty798"
+    },
+    {
+      "id": 55,
+      "categoriaId": 4,
+      "titulo": "#20 - Iluminação com sensor de luz solar",
+      "url": "https://www.youtube.com/watch?v=pHwKolgV_5o"
+    },
+    {
+      "id": 56,
+      "categoriaId": 4,
+      "titulo": "#21 - Elevador ziper",
+      "url": "https://www.youtube.com/watch?v=itCBL2ygIDg"
+    },
+    {
+      "id": 57,
+      "categoriaId": 4,
+      "titulo": "#22 - Lareira automática e convidado misterioso",
+      "url": "https://www.youtube.com/watch?v=SS3LwKGZgQo"
+    },
+    {
+      "id": 58,
+      "categoriaId": 4,
+      "titulo": "#23 - Farm de slimes",
+      "url": "https://www.youtube.com/watch?v=dPzugU36NDA"
+    },
+    {
+      "id": 59,
+      "categoriaId": 4,
+      "titulo": "#24 - Farm de ovelhas",
+      "url": "https://www.youtube.com/watch?v=bFQx4FPYohg"
+    },
+    {
+      "id": 60,
+      "categoriaId": 4,
+      "titulo": "#25 - Sala de encantamento automática",
+      "url": "https://www.youtube.com/watch?v=-n72BJsvCuM"
+    },
+    {
+      "id": 61,
+      "categoriaId": 4,
+      "titulo": "#26 - Especial de Natal",
+      "url": "https://www.youtube.com/watch?v=zHzy0cug0ME"
+    },
+    {
+      "id": 62,
+      "categoriaId": 4,
+      "titulo": "#27 - Casa nova e Trap FAIL",
+      "url": "https://www.youtube.com/watch?v=_LZNfawzYeg"
+    },
+    {
+      "id": 63,
+      "categoriaId": 4,
+      "titulo": "#28 - Mob Trap Parte 01",
+      "url": "https://www.youtube.com/watch?v=us_iCtpS9bU"
+    },
+    {
+      "id": 64,
+      "categoriaId": 4,
+      "titulo": "#29 - Mob Trap Finalizada",
+      "url": "https://www.youtube.com/watch?v=ZOBA8N7XpEs"
+    },
+    {
+      "id": 65,
+      "categoriaId": 4,
+      "titulo": "#30 - Farm de galinhas e ovos",
+      "url": "https://www.youtube.com/watch?v=mg31bYV_qsI&list=PLD40851E0E52E9080&index=31"
+    },
+    {
+      "id": 66,
+      "categoriaId": 4,
+      "titulo": "#31 - Elevador mais rápido do minecraft!?",
+      "url": "https://www.youtube.com/watch?v=rb2a8XlRcag&list=PLD40851E0E52E9080&index=32"
+    },
+    {
+      "id": 67,
+      "categoriaId": 4,
+      "titulo": "#32 - Organizador de itens",
+      "url": "https://www.youtube.com/watch?v=bmd0x7syOjc&list=PLD40851E0E52E9080&index=33"
+    },
+    {
+      "id": 68,
+      "categoriaId": 4,
+      "titulo": "#33 - 2º andar finalizado + Mapas",
+      "url": "https://www.youtube.com/watch?v=LXY8sH77DwY&list=PLD40851E0E52E9080&index=34"
+    },
+    {
+      "id": 69,
+      "categoriaId": 4,
+      "titulo": "#34 - Farm de batata assada",
+      "url": "https://www.youtube.com/watch?v=YaYoZtTxR9Q&list=PLD40851E0E52E9080&index=35"
+    },
+    {
+      "id": 70,
+      "categoriaId": 4,
+      "titulo": "#35 - Viniccius13 vs Napoleon / Nova churrasqueira",
+      "url": "https://www.youtube.com/watch?v=kzI_JOiv-ao&list=PLD40851E0E52E9080&index=36"
+    },
+    {
+      "id": 71,
+      "categoriaId": 4,
+      "titulo": "#36 - Estação de metrô/minecart",
+      "url": "https://www.youtube.com/watch?v=d7eMxLgxwY4&list=PLD40851E0E52E9080&index=37"
+    },
+    {
+      "id": 72,
+      "categoriaId": 4,
+      "titulo": "#37 - Montanha russa!?",
+      "url": "https://www.youtube.com/watch?v=226BEdPfZ_E&list=PLD40851E0E52E9080&index=38"
+    },
+    {
+      "id": 73,
+      "categoriaId": 4,
+      "titulo": "#38 - Esconderijo dos diamantes",
+      "url": "https://www.youtube.com/watch?v=aOiWpMuxXPc&list=PLD40851E0E52E9080&index=39"
+    },
+    {
+      "id": 74,
+      "categoriaId": 4,
+      "titulo": "#39 - Fornalha automática!",
+      "url": "https://www.youtube.com/watch?v=IbXwZD7G4z4&list=PLD40851E0E52E9080&index=40"
+    },
+    {
+      "id": 75,
+      "categoriaId": 4,
+      "titulo": "#40 - Skins gigantes! Impossível?!",
+      "url": "https://www.youtube.com/watch?v=wmVW7mPCcak&list=PLD40851E0E52E9080&index=41"
+    },
+    {
+      "id": 76,
+      "categoriaId": 4,
+      "titulo": "#41 - 1 ano de aventura! =D / Skins prontas",
+      "url": "https://www.youtube.com/watch?v=DUbpfE-0iM4&list=PLD40851E0E52E9080&index=42"
+    },
+    {
+      "id": 77,
+      "categoriaId": 4,
+      "titulo": "#42 - Destino Arena PVP / Estação de metrô múltipla",
+      "url": "https://www.youtube.com/watch?v=MahC6qujhmw&list=PLD40851E0E52E9080&index=43"
+    },
+    {
+      "id": 78,
+      "categoriaId": 4,
+      "titulo": "#43 - Gerador de cobblestone 100% automático com TNT",
+      "url": "https://www.youtube.com/watch?v=yKhIjMRnvYE&list=PLD40851E0E52E9080&index=44"
+    },
+    {
+      "id": 79,
+      "categoriaId": 4,
+      "titulo": "#44 - Começando a Arena PVP/ Porta 6x6 de cascalho",
+      "url": "https://www.youtube.com/watch?v=Ocjzfx7q-qA&list=PLD40851E0E52E9080&index=45"
+    },
+    {
+      "id": 80,
+      "categoriaId": 4,
+      "titulo": "#45 - Arena PVP / Coliseu",
+      "url": "https://www.youtube.com/watch?v=owegfWXIC4Y&list=PLD40851E0E52E9080&index=46s"
+    },
+    {
+      "id": 81,
+      "categoriaId": 4,
+      "titulo": "#46 - The End / Floresta Negra Parte 1",
+      "url": "https://www.youtube.com/watch?v=emx3jSPONQA&list=PLD40851E0E52E9080&index=47"
+    },
+    {
+      "id": 82,
+      "categoriaId": 4,
+      "titulo": "#46 - Ferrovia no Nether / Portal do Fim Parte 2",
+      "url": "https://www.youtube.com/watch?v=jc1lJNtlNrk&list=PLD40851E0E52E9080&index=48"
+    },
+    {
+      "id": 83,
+      "categoriaId": 4,
+      "titulo": "#47 - Farm de Armaduras!? / Separador de itens",
+      "url": "https://www.youtube.com/watch?v=cMjoe3j7Jfw&list=PLD40851E0E52E9080&index=49"
+    },
+    {
+      "id": 84,
+      "categoriaId": 4,
+      "titulo": "#48 - Napoleon vs Davi / Farm de Cactos",
+      "url": "https://www.youtube.com/watch?v=aAtnh95aWIU&list=PLD40851E0E52E9080&index=50"
+    },
+    {
+      "id": 85,
+      "categoriaId": 4,
+      "titulo": "#49 - The Void / Destruindo bedrock / Mob Trap automática",
+      "url": "https://www.youtube.com/watch?v=CZQ9ACyGChA&list=PLD40851E0E52E9080&index=51"
+    },
+    {
+      "id": 86,
+      "categoriaId": 4,
+      "titulo": "#50 - Especial / Tour pelo Mapa",
+      "url": "https://www.youtube.com/watch?v=Zu2jYPN64-k&list=PLD40851E0E52E9080&index=52"
+    },
+    {
+      "id": 87,
+      "categoriaId": 5,
+      "titulo": "Dininho Adventures",
+      "url": "https://www.youtube.com/watch?v=AtcrDtIv3F4"
+    },
+    {
+      "id": 88,
+      "categoriaId": 5,
+      "titulo": "Celeste",
+      "url": "https://www.youtube.com/watch?v=70d9irlxiB4"
+    },
+    {
+      "id": 89,
+      "categoriaId": 5,
+      "titulo": "Hollow Night",
+      "url": "https://www.youtube.com/watch?v=FzzsWP2GWmg"
+    },
+    {
+      "id": 90,
+      "categoriaId": 5,
+      "titulo": "Oxygen Not Included",
+      "url": "https://www.youtube.com/watch?v=wcLayGm_pM4"
+    },
+    {
+      "id": 91,
+      "categoriaId": 5,
+      "titulo": "Undermine",
+      "url": "https://www.youtube.com/watch?v=58ral7Vy1lM"
+    },
+    {
+      "id": 92,
+      "categoriaId": 5,
+      "titulo": "Skul: The Hero Slayer Official Trailer",
+      "url": "https://www.youtube.com/watch?v=yzP8eYbQNpE"
+    },
+    {
+      "id": 93,
+      "categoriaId": 5,
+      "titulo": "Castle Crashers",
+      "url": "https://www.youtube.com/watch?v=bu6Kwvd695w"
+    },
+    {
+      "titulo": "Dininho Advantures SoundTrack",
+      "url": "https://www.youtube.com/watch?v=y3yuAldOv6o",
+      "categoriaId": 2,
+      "id": 94
+    }
+  ]
 }
