@@ -8,7 +8,7 @@ function Footer() {
       <a href="https://www.alura.com.br/">
         <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
       </a>
-      <a href="https:/github.com/raianwz/" style={{ 'margin-left': '20px', height: '100px' }}>
+      <a href="https:/github.com/raianwz/">
         <ImgLogo src={Logo} alt="Logo RaianWZ" />
       </a>
       <p>

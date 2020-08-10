@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import Pacman from '../../assets/img/loading.svg';
+import { Loading, PCimg } from './styles';
 import Menu from '../../components/Menu';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
@@ -23,7 +25,12 @@ function Home() {
     <PageDefault paddingAll={0}>
 
       <Menu />
-      {dadosIniciais.length === 0 && (<div>Loading...</div>)}
+      {dadosIniciais.length === 0 && (
+      <div>
+        <Loading>Loading</Loading>
+        <PCimg src={Pacman} alt="PacMan" />
+      </div>
+      )}
 
       {dadosIniciais.map((categoria, indice) => {
         if (indice === 0) {

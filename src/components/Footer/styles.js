@@ -16,6 +16,7 @@ export const FooterBase = styled.footer`
 `;
 
 export const ImgLogo = styled.img`
+  margin-left: 20px;
   filter: invert(1) saturate(0) contrast(3) brightness(150);
   transition: filter 5s ease-in-out;
 
